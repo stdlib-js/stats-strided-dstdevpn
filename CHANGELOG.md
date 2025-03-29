@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`c71467b`](https://github.com/stdlib-js/stdlib/commit/c71467b3cbb139c9df8d5928fc398482312ec15f) - **feat:** add `stats/strided/dstdevpn` _(by Aayush Khanna)_
 
 </details>
