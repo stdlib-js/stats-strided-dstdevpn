@@ -386,7 +386,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dstdev`][@stdlib/stats/strided/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancepn`][@stdlib/stats/strided/dvariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a two-pass algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/sstdevpn`][@stdlib/stats/strided/sstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a two-pass algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/stdevpn`][@stdlib/stats/base/stdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/stdevpn`][@stdlib/stats/strided/stdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using a two-pass algorithm.</span>
 
 </section>
 
@@ -484,7 +484,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/sstdevpn]: https://github.com/stdlib-js/stats-strided-sstdevpn
 
-[@stdlib/stats/base/stdevpn]: https://github.com/stdlib-js/stats-base-stdevpn
+[@stdlib/stats/strided/stdevpn]: https://github.com/stdlib-js/stats-strided-stdevpn
 
 <!-- </related-links> -->
 
